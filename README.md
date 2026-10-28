@@ -55,8 +55,6 @@ streamlit run app.py
 | `Housing.csv` | Dataset |
 
 ## Tech
-
 Python, pandas, scikit-learn, matplotlib, seaborn, Streamlit, joblib.
 
-## Author
-<Hishmat Rai>
+## Author   <Hishmat Rai>
