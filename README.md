@@ -59,5 +59,4 @@ streamlit run app.py
 Python, pandas, scikit-learn, matplotlib, seaborn, Streamlit, joblib.
 
 ## Author
-
 <Hishmat Rai>
